@@ -1,0 +1,35 @@
+{
+  "name": "darkLover",
+  "displayName": "darkLover",
+  "description": "Introducing \"darkLover\" a meticulously crafted dark theme for Visual Studio Code. Immerse yourself in the elegance of deep, contrasting hues that enhance focus and reduce eye strain during those late-night coding sessions. With carefully selected color palettes for syntax highlighting, a sleek user interface, and subtle accents, \"darkLover\" provides a stylish and immersive coding experience. Elevate your coding environment with this dark theme that strikes the perfect balance between aesthetics and functionality. Embrace the darkness and let your code shine with \"darkLover\" for Visual Studio Code.",
+  "version": "0.0.1",
+  "publisher": "rayan2228",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "themes",
+    "dark",
+    "new dark",
+    "darkLover",
+    "vscodeDark",
+    "dracula"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayan2228/darklover"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "darkLover",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkLover-color-theme.json"
+      }
+    ]
+  }
+}
