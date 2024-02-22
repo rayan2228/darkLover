@@ -35,7 +35,7 @@
     "darkLove",
     "dark Love"
   ],
-  "icon": "./assets/icon.png",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/rayan2228/darkLover"
