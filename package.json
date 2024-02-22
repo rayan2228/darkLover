@@ -7,6 +7,12 @@
   "engines": {
     "vscode": "^1.86.0"
   },
+  "author": {
+    "name": "Rayan Hossain",
+    "email": "rayanh.dev@gmail.com",
+    "url": "https://github.com/rayan2228/"
+  },
+  "homepage": "https://github.com/rayan2228/darkLover",
   "categories": [
     "Themes"
   ],
@@ -17,8 +23,19 @@
     "new dark",
     "darkLover",
     "vscodeDark",
-    "dracula"
+    "dracula",
+    "darlover",
+    "dark lover",
+    "drk lover",
+    "drl Lover",
+    "dark love",
+    "love",
+    "drk",
+    "rayan2228",
+    "darkLove",
+    "dark Love"
   ],
+  "icon": "./assets/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/rayan2228/darkLover"
